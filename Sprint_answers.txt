@@ -1,0 +1,8 @@
+I think getting a second set of eyes is important for code reviews because
+it limits the potential for errors or directionally incorrect code. When I look
+at code, I look to see if it makes sense and if there is a way to optimize it 
+for readability and efficiency. Code reviews also help with uniformity of code
+to make sure everyone is on the same page.
+
+Containers help keep objects organized. They only allow specific access according 
+to a set of rules and help optimize the life cycle of a project.
